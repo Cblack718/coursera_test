@@ -1,0 +1,9 @@
+# site settings
+title: your site title 
+description: your site descirption
+baseur1:""
+url:""
+
+#Build settings
+markdown: kramdown
+theme: minima
